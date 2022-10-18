@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b05b33c-348e-4dbb-a3f8-3b45a047dea4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LowestAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/LowestAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/FindLeaves.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <updated>1665472966553</updated>
       <workItem from="1665472967728" duration="8289000" />
       <workItem from="1665942398992" duration="979000" />
-      <workItem from="1666067873832" duration="234000" />
+      <workItem from="1666067873832" duration="1597000" />
     </task>
     <task id="LOCAL-00001" summary="Boliny99">
       <created>1665534348816</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665534348816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ass2">
+      <created>1666068191757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666068191757</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +80,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Boliny99" />
-    <option name="LAST_COMMIT_MESSAGE" value="Boliny99" />
+    <MESSAGE value="Ass2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ass2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
