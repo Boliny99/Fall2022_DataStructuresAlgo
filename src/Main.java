@@ -1,4 +1,7 @@
 public class Main {
+
+    //Time complexity o(n^2)
+    //space complexity o(n^2)
     public static void main(String[] args) {
         String[][] matrix = {
                 {"1","1","1","1","0"},
